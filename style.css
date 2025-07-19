@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    -webkit-tap-hightlight-color: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 html,body{
